@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/api/com.dubbo/1.0-SNAPSHOT" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/api/com.dubbo/1.0-SNAPSHOT" recursive="false" />
+  </library>
+</component>
